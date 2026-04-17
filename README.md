@@ -17,7 +17,7 @@ RAF-DB DATASET: https://www.kaggle.com/datasets/shuvoalok/raf-db-dataset
 | **Python** | 3.13.13 |
 | **CUDA Driver** | 13.2 (Runtime: 12.8) | 
 
-----
+---
 
 ## Installation
 
@@ -50,3 +50,13 @@ source emotion/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+
+---
+
+## Result
+
+### Confusion Matrix
+![Confusion Matrix](training_mobilenet\results\confusion_matrix.png)
+
+### Training Plot
+![Training Plot](training_mobilenet\results\training_plot.png)
