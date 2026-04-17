@@ -56,7 +56,7 @@ pip install -r requirements.txt
 ## Result
 
 ### Confusion Matrix
-![Confusion Matrix](training_mobilenet\results\confusion_matrix.png)
+![Confusion Matrix](training_mobilenet/results/confusion_matrix.png)
 
 ### Training Plot
-![Training Plot](training_mobilenet\results\training_plot.png)
+![Training Plot](training_mobilenet/results/training_plot.png)
